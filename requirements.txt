@@ -1,0 +1,14 @@
+tensorflow
+gym
+gymnasium
+torch
+shimmy
+kubernetes
+stable_baselines3
+sb3_contrib
+plotly
+tqdm
+scikit-learn
+keras
+pandas
+pmdarima
