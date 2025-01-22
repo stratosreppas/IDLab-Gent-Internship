@@ -7,7 +7,7 @@ The repository consists of three projects:
 <br><br><b>Stable</b>, which is the version of the project developed in the gym-hpa paper (with some modifications).
 
 <ul> <i>UPDATES:</i> <li> The paper regarding the <b>predictions</b> implementation is now published in the Journal of Network and Computer Applications: https://doi.org/10.1016/j.jnca.2024.104067
-<br> The official code of the paper is here: https://github.com/jpedro1992/gwydion</ul><li>
+<br> The official code of the paper is here: https://github.com/jpedro1992/gwydion</li>
 <li> The paper regarding the <b>Deep Sets</b> implementation, titled <b>Can Reinforcement Learning be Generalized for
 Efficient Auto-Scaling in Containerized Clouds?</b> has been accepted in the IEEE/IFIP Network Operations and Management Symposium 2025.</li>
 </ul>
