@@ -7,4 +7,4 @@ The repository consists of three projects:
 <br><br><b>Stable</b>, which is the version of the project developed in the gym-hpa paper (with some modifications).
 
 <i>UPDATE:</i> The paper is now published in the Journal of Network and Computer Applications: https://doi.org/10.1016/j.jnca.2024.104067
-The official code of the paper is here: https://github.com/jpedro1992/gwydion
+<br> The official code of the paper is here: https://github.com/jpedro1992/gwydion
